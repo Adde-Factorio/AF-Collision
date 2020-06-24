@@ -1,2 +1,2 @@
 # AF-Collision
-A mod for the sandbox survival game Factorio!
+> Removes the players collision hitbox so that you can walk through anything and everything, even over water. Settings available to customise collision of player and the world. Reduces hitbox of trees, so forests aren't inescapable mazes.
