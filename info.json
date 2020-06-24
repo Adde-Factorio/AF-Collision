@@ -1,0 +1,11 @@
+{
+	"name":"Collision",
+	"version":"1.0.1",
+	"factorio_version":"0.18",
+	"title":"¬ Collision",
+	"author":"Darcy Manoel",
+	"contact":"darcman99@gmail.com",
+	"homepage":"https://github.com/Darcman99/Factorio-Mods",
+	"description":"Removes the players collision hitbox so that you can walk through anything and everything, even over water.\n    ¬ Settings available to customise collision of player and the world.\n    ¬ Reduces hitbox of trees, so forests aren't inescapable mazes.",
+	"dependencies":["base>=0.18.10"]
+}
